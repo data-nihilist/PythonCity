@@ -145,3 +145,14 @@ match lunch_order:
 
 
 print("\n\n\t\t-From: TuplesAndLists.py")
+
+#                               Importing & Exporting Functions
+
+# go to syntax_wrapup.py to see this import in action
+
+class smart_door:
+    def open():
+        print("Ahhhhhhhhhhhhhh.")
+    
+    def close():
+        print("Thank you for making a simple door very happy.")
